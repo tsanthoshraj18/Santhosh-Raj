@@ -1,3 +1,2 @@
-kp,power=map(int,input().split())
-num=kp**power
-print(num)
+a,b=map(int,input().split())
+print(a ** b)
