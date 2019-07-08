@@ -1,3 +1,3 @@
-a=int(input())
-b=list(map(int,input().split()))
-print(min(b))
+san=int(input())
+raj=list(map(int,input().split()))
+print(min(raj))
